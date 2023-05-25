@@ -1,0 +1,110 @@
+Data created, status: 201
+{'data': {'id': '100', 'text': 'Black Sabbath', 'createdAt': '2023-05-25T11:07:13.806Z', 'metadata': {'genre': 'Heavy Metal', 'formed': 1968, 'members': [{'name': 'Ozzy Osbourne', 'role': 'Lead Vocals'}, {'name': 'Tony Iommi', 'role': 'Guitar'}, {'name': 'Geezer Butler', 'role': 'Bass'}, {'name': 'Bill Ward', 'role': 'Drums'}], 'albums': [{'name': 'Black Sabbath', 'songs': ['Black Sabbath', 'The Wizard', 'N.I.B.']}, {'name': 'Paranoid', 'songs': ['War Pigs', 'Paranoid', 'Iron Man']}, {'name': 'Master of Reality', 'songs': ['Sweet Leaf', 'Children of the Grave', 'Into the Void']}, {'name': 'Vol. 4', 'songs': ['Snowblind', 'Supernaut', 'Changes']}, {'name': 'Sabbath Bloody Sabbath', 'songs': ['Sabbath Bloody Sabbath', 'A National Acrobat', 'Killing Yourself To Live']}], 'origin': 'Birmingham, England'}}}
+Data created, status: 201
+{'data': {'id': '101', 'text': 'Helloween', 'createdAt': '2023-05-25T11:07:14.333Z', 'metadata': {'genre': 'Power Metal', 'formed': 1984, 'members': [{'name': 'Andi Deris', 'role': 'Lead Vocals'}, {'name': 'Michael Weikath', 'role': 'Guitar'}, {'name': 'Markus Grosskopf', 'role': 'Bass'}, {'name': 'Sascha Gerstner', 'role': 'Guitar'}, {'name': 'Daniel Löble', 'role': 'Drums'}], 'albums': [{'name': 'Walls of Jericho', 'songs': ['Starlight', 'Murderer', 'How Many Tears']}, {'name': 'Keeper of the Seven Keys: Part I', 'songs': ["I'm Alive", 'Twilight of the Gods', 'Future World']}, {'name': 'Keeper of the Seven Keys: Part II', 'songs': ['Eagle Fly Free', 'Dr. Stein', 'I Want Out']}, {'name': 'Master of the Rings', 'songs': ['Sole Survivor', 'Where The Rain Grows', 'Perfect Gentleman']}, {'name': 'The Time of the Oath', 'songs': ['Power', 'Forever and One (Neverland)', 'Before the War']}], 'origin': 'Hamburg, Germany'}}}
+Data created, status: 201
+{'data': {'id': '102', 'text': 'Iron Maiden', 'createdAt': '2023-05-25T11:07:14.765Z', 'metadata': {'genre': 'Heavy Metal', 'formed': 1975, 'members': [{'name': 'Bruce Dickinson', 'role': 'Lead Vocals'}, {'name': 'Steve Harris', 'role': 'Bass'}, {'name': 'Dave Murray', 'role': 'Guitar'}, {'name': 'Adrian Smith', 'role': 'Guitar'}, {'name': 'Nicko McBrain', 'role': 'Drums'}, {'name': 'Janick Gers', 'role': 'Guitar'}], 'albums': [{'name': 'The Number of the Beast', 'songs': ['Run to the Hills', 'Hallowed Be Thy Name', 'Children of the Damned']}, {'name': 'Piece of Mind', 'songs': ['Flight of Icarus', 'The Trooper', 'Still Life']}, {'name': 'Powerslave', 'songs': ['2 Minutes to Midnight', 'Aces High', 'Flash of the Blade']}, {'name': 'Somewhere in Time', 'songs': ['Wasted Years', 'Stranger in a Strange Land', 'Alexander the Great']}, {'name': 'Seventh Son of a Seventh Son', 'songs': ['Can I Play with Madness', 'The Evil That Men Do', 'Infinite Dreams']}], 'origin': 'London, England'}}}
+Data created, status: 201
+{'data': {'id': '103', 'text': 'Masterplan', 'createdAt': '2023-05-25T11:07:15.193Z', 'metadata': {'genre': 'Power Metal', 'formed': 2002, 'members': [{'name': 'Rick Altzi', 'role': 'Lead Vocals'}, {'name': 'Roland Grapow', 'role': 'Guitar'}, {'name': 'Jari Kainulainen', 'role': 'Bass'}, {'name': 'Axel Mackenrott', 'role': 'Keyboards'}, {'name': 'Kevin Kott', 'role': 'Drums'}], 'albums': [{'name': 'Masterplan', 'songs': ['Spirit Never Die', 'Heroes', 'Enlighten Me']}, {'name': 'Aeronautics', 'songs': ['Falling Sparrow', 'Back For My Life', 'Wounds']}, {'name': 'MK II', 'songs': ['Lost and Gone', 'Keeps Me Burning', "Warrior's Cry"]}, {'name': 'Time To Be King', 'songs': ['Time To Be King', 'Blue Europa', 'Under The Moon']}, {'name': 'Novum Initium', 'songs': ['The Game', 'Keep Your Dream Alive', 'Black Night of Magic']}], 'origin': 'Hamburg, Germany'}}}
+Data created, status: 201
+{'data': {'id': '104', 'text': 'Týr', 'createdAt': '2023-05-25T11:07:15.639Z', 'metadata': {'genre': 'Folk Metal', 'formed': 1998, 'members': [{'name': 'Heri Joensen', 'role': 'Lead Vocals, Guitar'}, {'name': 'Gunnar H. Thomsen', 'role': 'Bass'}, {'name': 'Tadeusz Rieckmann', 'role': 'Drums'}], 'albums': [{'name': 'Eric the Red', 'songs': ['The Edge', 'Regin Smiður', 'Dreams']}, {'name': 'Ragnarok', 'songs': ['Wings of Time', 'The Beginning', 'The End']}, {'name': 'Land', 'songs': ['Gandkvæði Tróndar', 'Sinklars vísa', 'Ocean']}, {'name': 'By the Light of the Northern Star', 'songs': ['Hold the Heathen Hammer High', 'By the Light of the Northern Star', 'Northern Gate']}, {'name': 'Valkyrja', 'songs': ['Blood of Heroes', 'Mare of My Night', 'Lady of the Slain']}], 'origin': 'Copenhagen, Denmark'}}}
+Data created, status: 201
+{'data': {'id': '105', 'text': 'Heavenly', 'createdAt': '2023-05-25T11:07:16.065Z', 'metadata': {'genre': 'Power Metal', 'formed': 1994, 'members': [{'name': 'Ben Sotto', 'role': 'Lead Vocals, Keyboards'}, {'name': 'Olivier Lapauze', 'role': 'Guitar'}, {'name': 'Matthieu Plana', 'role': 'Bass'}, {'name': 'Piwee', 'role': 'Drums'}], 'albums': [{'name': 'Sign of the Winner', 'songs': ['The World Will Be Better', 'Promised Land', 'Until I Die']}, {'name': 'Dust to Dust', 'songs': ['Ashen Paradise', 'Lust for Life', 'Victory (Creatures of the Night)']}, {'name': 'Virus', 'songs': ['The Dark Memories', 'Spill Blood on Fire', 'Virus']}, {'name': 'Carpe Diem', 'songs': ['Fullmoon', 'Farewell', 'A Better Me']}, {'name': 'Sign of the Winner', 'songs': ['Still Believe', 'Words of Change', 'The Sandman']}], 'origin': 'Paris, France'}}}
+Data created, status: 201
+{'data': {'id': '106', 'text': 'HammerFall', 'createdAt': '2023-05-25T11:07:16.491Z', 'metadata': {'genre': 'Heavy Metal, Power Metal', 'formed': 1993, 'members': [{'name': 'Joacim Cans', 'role': 'Lead Vocals'}, {'name': 'Oscar Dronjak', 'role': 'Guitar'}, {'name': 'Pontus Norgren', 'role': 'Guitar'}, {'name': 'Fredrik Larsson', 'role': 'Bass'}, {'name': 'David Wallin', 'role': 'Drums'}], 'albums': [{'name': 'Glory to the Brave', 'songs': ['The Dragon Lies Bleeding', 'HammerFall', 'Glory to the Brave']}, {'name': 'Legacy of Kings', 'songs': ['Heeding the Call', 'Legacy of Kings', 'At the End of the Rainbow']}, {'name': 'Renegade', 'songs': ['Renegade', 'Living in Victory', 'Always Will Be']}, {'name': 'Crimson Thunder', 'songs': ['Riders of the Storm', 'Hearts on Fire', 'Crimson Thunder']}, {'name': 'Chapter V: Unbent, Unbowed, Unbroken', 'songs': ['Blood Bound', 'Fury of the Wild', 'Never, Ever']}], 'origin': 'Gothenburg, Sweden'}}}
+Data created, status: 201
+{'data': {'id': '107', 'text': 'Bloodbound', 'createdAt': '2023-05-25T11:07:16.962Z', 'metadata': {'genre': 'Power Metal, Heavy Metal', 'formed': 2004, 'members': [{'name': 'Patrik Johansson', 'role': 'Lead Vocals'}, {'name': 'Tomas Olsson', 'role': 'Guitar'}, {'name': 'Henrik Olsson', 'role': 'Guitar'}, {'name': 'Anders Broman', 'role': 'Bass'}, {'name': 'Fredrik Bergh', 'role': 'Keyboards'}, {'name': 'Daniel Sjögren', 'role': 'Drums'}], 'albums': [{'name': 'Nosferatu', 'songs': ['Behind the Moon', 'Into the Dark', 'Nosferatu']}, {'name': 'Book of the Dead', 'songs': ['Sign of the Devil', 'The Tempter', 'Book of the Dead']}, {'name': 'Tabula Rasa', 'songs': ['Sweet Dreams of Madness', 'Dominion 5', 'Take One']}, {'name': 'Unholy Cross', 'songs': ['Moria', 'Drop the Bomb', 'Unholy Cross']}, {'name': 'In the Name of Metal', 'songs': ['In the Name of Metal', 'When Demons Collide', 'Bonebreaker Prophecy']}], 'origin': 'Bollnäs, Sweden'}}}
+Data created, status: 201
+{'data': {'id': '108', 'text': 'Gloryhammer', 'createdAt': '2023-05-25T11:07:17.412Z', 'metadata': {'genre': 'Power Metal', 'formed': 2010, 'members': [{'name': 'Thomas Winkler', 'role': 'Lead Vocals'}, {'name': 'Christopher Bowes', 'role': 'Keyboards'}, {'name': 'Paul Templing', 'role': 'Guitar'}, {'name': 'James Cartwright', 'role': 'Bass'}, {'name': 'Ben Turk', 'role': 'Drums'}], 'albums': [{'name': 'Tales from the Kingdom of Fife', 'songs': ['Angus McFife', 'The Unicorn Invasion of Dundee', 'Magic Dragon']}, {'name': 'Space 1992: Rise of the Chaos Wizards', 'songs': ['Rise of the Chaos Wizards', 'Goblin King of the Darkstorm Galaxy', 'Questlords of Inverness, Ride to the Galactic Fortress!']}, {'name': 'Legends from Beyond the Galactic Terrorvortex', 'songs': ['Gloryhammer', 'The Siege of Dunkeld (In Hoots We Trust)', 'Masters of the Galaxy']}], 'origin': 'Scotland'}}}
+Data created, status: 201
+{'data': {'id': '109', 'text': 'Judas Priest', 'createdAt': '2023-05-25T11:07:17.840Z', 'metadata': {'genre': 'Heavy Metal', 'formed': 1969, 'members': [{'name': 'Rob Halford', 'role': 'Lead Vocals'}, {'name': 'Glenn Tipton', 'role': 'Guitar'}, {'name': 'Ian Hill', 'role': 'Bass'}, {'name': 'Scott Travis', 'role': 'Drums'}, {'name': 'Richie Faulkner', 'role': 'Guitar'}], 'albums': [{'name': 'British Steel', 'songs': ['Breaking the Law', 'Living After Midnight', 'Rapid Fire']}, {'name': 'Painkiller', 'songs': ['Painkiller', 'All Guns Blazing', 'Night Crawler']}, {'name': 'Screaming for Vengeance', 'songs': ["You've Got Another Thing Comin'", 'Electric Eye', 'Screaming for Vengeance']}, {'name': 'Defenders of the Faith', 'songs': ['Freewheel Burning', 'The Sentinel', 'Rock Hard Ride Free']}, {'name': 'Hell Bent for Leather', 'songs': ['Hell Bent for Leather', 'The Green Manalishi (With the Two Prong Crown)', 'Killing Machine']}], 'origin': 'Birmingham, England'}}}
+Tune results, status: 201
+{'data': {'id': '646f4166f58680c25db85b36', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '101', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41665511b87453f0fe25', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '102', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4167f58680c25db85b37', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '103', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41675511b87453f0fe26', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '104', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41685511b87453f0fe27', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '105', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f4168f58680c25db85b38', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '106', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4169f58680c25db85b39', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '107', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f41695511b87453f0fe28', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '108', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f416a5511b87453f0fe29', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '100', 'idB': '109', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416af58680c25db85b3a', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '102', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f416a5511b87453f0fe2a', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '103', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416bf58680c25db85b3b', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '104', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f416b5511b87453f0fe2b', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '105', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416cf58680c25db85b3c', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '106', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416cf58680c25db85b3d', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '107', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416c5511b87453f0fe2c', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '108', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416df58680c25db85b3e', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '101', 'idB': '109', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f416d5511b87453f0fe2d', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '102', 'idB': '103', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f416ef58680c25db85b3f', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '102', 'idB': '104', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f416e5511b87453f0fe2e', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '102', 'idB': '105', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f416f5511b87453f0fe2f', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '102', 'idB': '106', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416ff58680c25db85b40', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '102', 'idB': '107', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f416ff58680c25db85b41', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '102', 'idB': '108', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41705511b87453f0fe30', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '102', 'idB': '109', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f41705511b87453f0fe31', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '103', 'idB': '104', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f4171f58680c25db85b42', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '103', 'idB': '105', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f41715511b87453f0fe32', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '103', 'idB': '106', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4172f58680c25db85b43', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '103', 'idB': '107', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f41725511b87453f0fe33', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '103', 'idB': '108', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4172f58680c25db85b44', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '103', 'idB': '109', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41735511b87453f0fe34', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '104', 'idB': '105', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f4173f58680c25db85b45', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '104', 'idB': '106', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41745511b87453f0fe35', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '104', 'idB': '107', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f4174f58680c25db85b46', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '104', 'idB': '108', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41745511b87453f0fe36', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '104', 'idB': '109', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f4175f58680c25db85b47', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '105', 'idB': '106', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4175f58680c25db85b48', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '105', 'idB': '107', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f41765511b87453f0fe37', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '105', 'idB': '108', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4176f58680c25db85b49', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '105', 'idB': '109', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41775511b87453f0fe38', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '106', 'idB': '107', 'label': -1}}
+Tune results, status: 201
+{'data': {'id': '646f41775511b87453f0fe39', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '106', 'idB': '108', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4178f58680c25db85b4a', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '106', 'idB': '109', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4178f58680c25db85b4b', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '107', 'idB': '108', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f41785511b87453f0fe3a', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '107', 'idB': '109', 'label': 1}}
+Tune results, status: 201
+{'data': {'id': '646f4179f58680c25db85b4c', 'app': '6469903f2dbc47e7712f3ec9', 'index': '6469a0f1777d799497a2f44d', 'idA': '108', 'idB': '109', 'label': -1}}

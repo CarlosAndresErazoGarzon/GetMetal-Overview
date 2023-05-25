@@ -1,0 +1,16 @@
+{
+  "data": {
+    "id": "646f4a0ff58680c25db85b67",
+    "createdAt": "2023-05-25T11:44:15.272Z",
+    "app": "6469903f2dbc47e7712f3ec9",
+    "name": "Metal Collection",
+    "model": "text-embedding-ada-002",
+    "dimensions": 1536,
+    "filters": [
+      { "field": "genre", "type": "string" },
+      { "field": "formed", "type": "number" },
+      { "field": "origin", "type": "string" }
+    ],
+    "counts": { "docs": 0 }
+  }
+}
